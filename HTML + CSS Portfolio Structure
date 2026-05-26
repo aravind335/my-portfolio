@@ -1,0 +1,27 @@
+portfolio/
+│
+├── index.html              # Home page
+├── about.html              # About me
+├── projects.html           # Projects showcase
+├── skills.html             # Skills section
+├── contact.html            # Contact page
+│
+├── css/
+│   ├── style.css           # Main stylesheet
+│   ├── responsive.css      # Media queries
+│   └── variables.css       # Colors, fonts, variables
+│
+├── assets/
+│   ├── images/
+│   │   ├── profile.jpg
+│   │   ├── projects/
+│   │   └── icons/
+│   │
+│   └── fonts/
+│
+├── components/ (optional)
+│   ├── navbar.html
+│   └── footer.html
+│
+├── README.md
+└── .gitignore
